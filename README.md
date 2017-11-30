@@ -55,7 +55,7 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**This assignment showed hhow effective numba is.  **
+**This assignment showed how effective numba is.  We wish we would have known this for previous assignments!**
 
 ## Honor Pledge
 
@@ -66,4 +66,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman, Jared Love**
