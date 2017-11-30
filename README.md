@@ -1,8 +1,8 @@
 # PHYS220 CW 13 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman, Jared Love**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-13-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-13-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-13-jaroed.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-13-jaroed)
 
 ## Specification
 
@@ -55,7 +55,7 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment showed hhow effective numba is.  **
 
 ## Honor Pledge
 
